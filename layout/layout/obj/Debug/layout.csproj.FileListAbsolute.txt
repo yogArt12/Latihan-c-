@@ -1,0 +1,11 @@
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\bin\Debug\layout.exe.config
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\bin\Debug\layout.exe
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\bin\Debug\layout.pdb
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.csproj.AssemblyReference.cache
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.Form1.resources
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.Properties.Resources.resources
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.csproj.GenerateResource.cache
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.exe
+C:\Users\DELL LATITIDE E7250\source\repos\layout\layout\obj\Debug\layout.pdb
