@@ -1,0 +1,17 @@
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\bin\Debug\net6.0-windows\Uts No.5.exe
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\bin\Debug\net6.0-windows\Uts No.5.deps.json
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\bin\Debug\net6.0-windows\Uts No.5.runtimeconfig.json
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\bin\Debug\net6.0-windows\Uts No.5.dll
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\bin\Debug\net6.0-windows\Uts No.5.pdb
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.csproj.AssemblyReference.cache
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.csproj.GenerateResource.cache
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.AssemblyInfoInputs.cache
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.AssemblyInfo.cs
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.dll
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\refint\Uts No.5.dll
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.pdb
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts No.5.genruntimeconfig.cache
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\ref\Uts No.5.dll
+C:\Users\DELL LATITIDE E7250\Music\Uts No.5\Uts No.5\obj\Debug\net6.0-windows\Uts_No._5.Form1REGISTER.resources
